@@ -1,0 +1,84 @@
+body{  
+    background-color: seashell;
+}
+html{
+    scroll-behavior: smooth;
+}
+#well{
+    background-color: rgb(243, 115, 243);
+    text-align: center;
+
+}
+.hr{
+    color: darkolivegreen;
+}
+.hr2{
+    color: darkslateblue;
+    padding: 5px;
+    margin: 5;
+    color: dodgerblue;
+  
+}
+.hr{
+    color: blueviolet;
+    padding: 10px;
+}
+.links{
+    padding: 10px 25px;
+}
+#links ul a{
+    
+    text-align: right;
+    padding: 10px 25px;
+    color: crimson;  
+    font-size: 20px;
+    text-decoration: none;
+} 
+.me{
+    text-align: center;
+}
+
+.img{
+    text-align: left;
+   padding: 30px;
+    margin: 10px;
+   
+}
+.full{
+    display: flex;
+    
+}
+ #txet{
+   top: 50px;
+    color: rgb(10, 7, 29);
+    margin: 100px;
+
+} 
+#camp{
+    margin: 10px;
+    text-align: left;
+}
+.pic{
+    padding: 30;
+    white-space: 100px;
+   
+}
+#page{
+    text-align: center;
+}
+#page3{
+    background-image: url(https://s3.wp.wsu.edu/uploads/sites/609/2020/04/Trevor-Noah-Born-a-Crime.jpg);
+}
+
+#Humor{
+    text-align: center;
+}
+.points{
+    margin: 10px;
+    text-align: left;
+    border: 10px;
+    padding: 20px;
+    width: 400px;
+    border-style: double;
+}
+
